@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b395be08-ebf5-48da-933b-04d2ebad438b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/net/SimpleSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/city/dao/PersonCheckDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/city/dao/PersonCheckDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/city/domain/PersonRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/city/domain/PersonRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/city/domain/PersonResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/city/domain/PersonResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/city/exception/PersonCheckException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/city/exception/PersonCheckException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/register.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/register.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/javacourse/city/dao/PersonCheckDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/city/dao/PersonCheckDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/javacourse/net/SimpleSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/net/SimpleSocket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vladimir/IdeaProjects/student-order&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "last_opened_file_path": "C:/Users/Vladimir/IdeaProjects/city-register"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -154,21 +149,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/javacourse/city/dao/PersonCheckDao.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/javacourse/city/dao/PersonCheckDao.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
