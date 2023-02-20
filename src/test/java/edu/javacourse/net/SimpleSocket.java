@@ -11,7 +11,7 @@ import java.nio.charset.StandardCharsets;
 public class SimpleSocket {
     @Test
     public void simpleSocket() throws IOException {
-        Socket socket = new Socket("localhost",8080);
+        Socket socket = new Socket("localhost",80);
 
         InputStream is = socket.getInputStream();
         OutputStream os = socket.getOutputStream();
