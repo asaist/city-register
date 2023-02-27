@@ -19,8 +19,9 @@ public class PoolConnectionBuilder implements ConnectionBuilder{
         try {
             Context ctx = new InitialContext();
             dataSource = (DataSource) ctx.lookup("java:comp/env/jdbc/cityRegister");
+            logger.info("CONTEXT is created");
         } catch (NamingException e) {
-            logger.error("", e);
+            logger.error("CONTEXT_NamingException", e);
         }
     }
 
